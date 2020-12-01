@@ -2,3 +2,6 @@ int a, b, c
 read a, b
 c=a+b
 print c
+int d
+d=a-b
+print d
